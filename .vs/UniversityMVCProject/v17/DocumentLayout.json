@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web-lab\\UniversityMVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|d:\\web-lab\\universitymvcproject\\universitymvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\student\\dlete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\student\\dlete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\universitycampus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\universitycampus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\universitycampus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\universitycampus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\universitycampus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\universitycampus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\universitycampus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\universitycampus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\universitycampus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\universitycampus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|d:\\web-lab\\universitymvcproject\\universitymvcproject\\data\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\data\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\models\\universitycampus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\models\\universitycampus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\controllers\\universitycampuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\controllers\\universitycampuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|d:\\web-lab\\universitymvcproject\\universitymvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|d:\\web-lab\\universitymvcproject\\universitymvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|d:\\web-lab\\universitymvcproject\\universitymvcproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UniversityMVCProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|d:\\web-lab\\universitymvcproject\\universitymvcproject\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|D:\\Web-lab\\UniversityMVCProject\\universitymvcproject\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|solutionrelative:universitymvcproject\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584D0EDE-EF75-4BEC-ABAA-AFD26FCF2914}|UniversityMVCProject\\UniversityMVCProject.csproj|d:\\web-lab\\universitymvcproject\\universitymvcproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 78,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:53:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\Student\\Details.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:53:26.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\UniversityCampus\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\UniversityCampus\\Index.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\UniversityCampus\\Index.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\UniversityCampus\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:55:36.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\UniversityCampus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\UniversityCampus\\Edit.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\UniversityCampus\\Edit.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\UniversityCampus\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:56:41.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\UniversityCampus\\Details.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\UniversityCampus\\Details.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\UniversityCampus\\Details.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\UniversityCampus\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:56:24.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\UniversityCampus\\Create.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\UniversityCampus\\Create.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\UniversityCampus\\Create.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\UniversityCampus\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:56:09.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\UniversityCampus\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\UniversityCampus\\Delete.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\UniversityCampus\\Delete.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\UniversityCampus\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:55:53.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dlete.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Student\\Dlete.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\Student\\Dlete.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Student\\Dlete.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\Student\\Dlete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:54:16.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T04:14:26.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:53:11.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Data\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Data\\UniversityContext.cs",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Data\\UniversityContext.cs",
+              "RelativeToolTip": "UniversityMVCProject\\Data\\UniversityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T03:31:35.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UniversityCampus.cs",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Models\\UniversityCampus.cs",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Models\\UniversityCampus.cs",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Models\\UniversityCampus.cs",
+              "RelativeToolTip": "UniversityMVCProject\\Models\\UniversityCampus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T03:25:21.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Models\\Student.cs",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Models\\Student.cs",
+              "RelativeToolTip": "UniversityMVCProject\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T03:23:54.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UniversityCampusController.cs",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Controllers\\UniversityCampusController.cs",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Controllers\\UniversityCampusController.cs",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Controllers\\UniversityCampusController.cs",
+              "RelativeToolTip": "UniversityMVCProject\\Controllers\\UniversityCampusController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T03:18:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "UniversityMVCProject\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T03:21:21.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:53:39.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UniversityMVCProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:51:16.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:27:02.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Web.config",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Web.config",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Web.config",
+              "RelativeToolTip": "UniversityMVCProject\\Web.config",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEYAAADrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-29T12:16:03.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UniversityMVCProject",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\UniversityMVCProject.csproj",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\UniversityMVCProject.csproj",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\UniversityMVCProject.csproj",
+              "RelativeToolTip": "UniversityMVCProject\\UniversityMVCProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-29T12:14:57.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Web.config",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\Web.config",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Web.config",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-29T11:19:30.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "UniversityMVCProject\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Web-lab\\UniversityMVCProject\\UniversityMVCProject\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "UniversityMVCProject\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T04:14:24.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
